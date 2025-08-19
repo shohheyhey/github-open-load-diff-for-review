@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Open Load Diff",
+  "version": "1.0",
+  "description": "GitHub のレビュー時にすべての load diff を開く",
+  "action": {
+    "default_icon": "icon-git-hub-open-diff.png"
+  },
+  "background": {
+    "service_worker": "main.js"
+  },
+  "permissions": ["scripting", "activeTab"]
+}
