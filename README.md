@@ -14,11 +14,13 @@ git clone git@github.com:shohheyhey/github-open-load-diff-for-review.git
 2. 拡張機能を登録する
 「パッケージ化されていない拡張機能を読み込む」から、1 を選択
 
-3. GitHub の Files changed を開く
+### GitHub のページへ
+
+1. GitHub の Files changed を開く
 https://github.com/{organization_name}/{repositry_name}/pull/{pr_number}/files
 
-4. アイコンを押す
+2. アイコンを押す
 <img width="316" height="202" alt="スクリーンショット 2025-08-19 18 41 48" src="https://github.com/user-attachments/assets/4022ff74-bcbf-4ca0-935e-1bfef692cc5e" />
 
-5. alert を OK していって完了
+3. alert を OK していって完了
 <img width="457" height="155" alt="スクリーンショット 2025-08-19 18 44 08" src="https://github.com/user-attachments/assets/23e1b290-f5d6-43b2-b792-1bee94a3bb98" />
